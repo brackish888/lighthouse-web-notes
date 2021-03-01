@@ -1,5 +1,5 @@
-#Sam's Notes
+# Sam's Notes
 
-##Summary
+## Summary
 
-This repository contains all of the notes taken by Sam for the Lighthouse Labs Web Development Bootcamp.
+This repository contains all of the notes taken by [Sam](https://github.com/brackish888) for the [Lighthouse Labs](https://www.lighthouselabs.ca/) Web Development Bootcamp.
